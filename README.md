@@ -19,4 +19,4 @@ I recommend downloading the 'ACW103-Base-Lights' Max patch [here](https://ampd.a
 1. Connect to the local network in ACW103. Ask the Lab Technician if you need the credentials.
 2. Turn on the AV rack in the room.
 3. Start the server by running the command 'npm main'
-4. Go to the (P5.js sketch here)[https://editor.p5js.org/kmaraj6/sketches/Torc_Zdl0] to see how to connect to the Light Server and control the lights
+4. Go to the [P5.js sketch here](https://editor.p5js.org/kmaraj6/sketches/Torc_Zdl0) to see how to connect to the Light Server and control the lights
